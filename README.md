@@ -17,7 +17,7 @@ I have reviewed the concept rubric
 I have create stories in GitHub Projects and related issues/task
 I have commented my code for readability and logical flow of information 
 I have updated my readme.md to reflect the most updated version of my application
-I have hosted my project on GitHub pages 
+I have hosted my project on GitHub pages "
 I have documented my code
 
 
