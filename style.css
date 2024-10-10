@@ -3,10 +3,16 @@ body {
   }
   
    h1 {
-    color: rgb(187, 141, 181);
+    color: rgb(0, 0, 0);
     text-align: center;
-    font-family: "Gloria Hallelujah";
-    font-size: 20px;
+    border: 5px solid;
+    padding: 5px;
+    right: 50%;
+    position: 50%;
+    border-radius: 50px;
+    width: 10% ;
+    text-shadow: 2px 2px 5px rgb(118, 0, 141);
+
   }
   
 
