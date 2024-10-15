@@ -22,11 +22,11 @@ I have documented my code
 
 
 - [x] Html files have been documented 
-CSS files have been documented
-JavaScript files have been documented
-I use HTML5 elements in my index.html 
-I have embedded a YouTube Video in my index.html
-I have styled my CSS page and displayed my Video on my page that allows users to view and navigate the site easily
-I have properly displayed the video attributes (title, description, etc.)
-I have submitted my GitHub Link to Beacon
-I have added the latest code to GitHub
+- [x] CSS files have been documented
+- [x] JavaScript files have been documented
+- [x] I use HTML5 elements in my index.html 
+- [x] I have embedded a YouTube Video in my index.html
+- [x] I have styled my CSS page and displayed my Video on my page that allows users to view and navigate the site easily
+- [x] I have properly displayed the video attributes (title, description, etc.)
+- [x] I have submitted my GitHub Link to Beacon
+- [x] I have added the latest code to GitHub
